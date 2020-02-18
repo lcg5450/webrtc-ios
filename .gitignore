@@ -1,0 +1,9 @@
+# cipd
+.cipd
+
+### gclient ###
+.gclient_entries
+
+### library ###
+/out_ios_libs
+
