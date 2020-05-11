@@ -1,3 +1,3 @@
 [submodule "src"]
 	path = src
-url=ssh://git@git.korea.ncsoft.corp:7999/webrtc/webrtc-src.git
+url=https://github.com/lcg5450/webrtc-ios-src.git
